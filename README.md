@@ -18,4 +18,4 @@
 - The results shows that there is always going to be market for a bike sharing service particularly in urban areas with heavy traffic flow in peak periods during week days. People that are trying to get to their various destinations on time without worrying about traffic, will subscribe to such a service.
 - Two additional visualization that I will perform with the given dataset are;
   * The route(s) with most bike trip (starting-point to end-point) so as to understand region(s) that require(s) higher number of bikes availability
-  * 
+  * What type of bike is the most demanded by users using the bike ids
