@@ -1,6 +1,7 @@
 # NYC Bikesharing Analysis
 
 ## Overview of statistical Analysis
+  - [link to dashboard](LINK GOES HERE 'https://public.tableau.com/profile/omodayo.ogunpitan#!/')
 
 ### Purpose
 - The purpose of the analysis is to analyse New York City August 2019 bike sharing data using tableau & Panda to convince investors that a bike sharing program in Des Moines is a solid business proposal and is worth investing in.
